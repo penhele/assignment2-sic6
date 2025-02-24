@@ -1,0 +1,1 @@
+Assignment 2 dari Samsung Innovation Campus. Kami berasal dari kelompok UNI458 yang bernama Belajar Sastra Mesin. Disini kami membuat rangkaian ESP32 dengan sensor suhu, sensor suara, dan sensor gerakan.
